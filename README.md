@@ -18,7 +18,7 @@
 
 ## Visualization:
 
-World Map - https://uofwaterloo-my.sharepoint.com/:i:/r/personal/s29zafar_uwaterloo_ca/Documents/Visualization_Results/Visualization%20for%20World%20Map.png?csf=1&web=1&e=4bMJhd
+<img width="1024" alt="Visualization for World Map" src="https://user-images.githubusercontent.com/69566994/149311531-8eda5774-d601-48f0-b0dd-1cc2e0b3fb17.png">
 
 ### Notes:
 
